@@ -210,7 +210,7 @@ for n in range(1,n_max+1):
 '''
 geracao dos graficos: 
 '''
-
+# Referência H
 print("Gráfico de relação (Valor obtido)/(Valor real) para a Tensão e o deslocamento.")
      
 x = [n for n in range(n_max)]
